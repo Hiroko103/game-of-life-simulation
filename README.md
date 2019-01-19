@@ -10,6 +10,12 @@ This project was a submission for the first semester's programming course in uni
 gcc -Wall -m32 simulation.c draw.c userInterface.c file.c main.c -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
 ```
 
+## Try it out!
+
+You can try it out without compiling the program by clicking [here](https://github.com/Hiroko103/game-of-life-simulation/releases/download/v1.0/simulator.zip).
+
+The archive includes the executable and the SDL dependencies.
+
 ## Features
 
 * No limit on the size of the map
