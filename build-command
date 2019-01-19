@@ -1,0 +1,1 @@
+gcc -Wall -m32 simulation.c draw.c userInterface.c file.c main.c -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
